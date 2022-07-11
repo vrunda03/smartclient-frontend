@@ -1,0 +1,23 @@
+2022-07-07 00:07:492 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-07-07 00:07:734 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-07-07 00:07:958 INFO  HomePage :29 - Clicking on close button[[ChromeDriver: chrome on WINDOWS (dc873c8c232b6f7ff591571693032bee)] -> xpath: //td[@id='isc_SideNavTree_0_valueCell8']]
+2022-07-08 16:07:28 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-07-08 16:07:386 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-07-08 16:07:803 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-07-08 16:07:964 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-07-08 16:07:693 INFO  HomePage :37 - Clicking on close button[[ChromeDriver: chrome on WINDOWS (fb16be77b4d9ef9e3bb41312e29d4f5d)] -> xpath: //a[contains(text(),'I Agree.')]]
+2022-07-08 16:07:870 INFO  HomePage :33 - Clicking on close button[[ChromeDriver: chrome on WINDOWS (fb16be77b4d9ef9e3bb41312e29d4f5d)] -> css selector: #isc_SideNavTree_0_valueCell8]
+2022-07-08 21:07:781 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-07-08 21:07:905 INFO  HomePage :44 - Clicking on close button[[ChromeDriver: chrome on WINDOWS (cdc909cf54e9199d0d637253cf8e810e)] -> xpath: //a[contains(text(),'I Agree.')]]
+2022-07-08 21:07:300 INFO  HomePage :40 - Clicking on close button[[ChromeDriver: chrome on WINDOWS (cdc909cf54e9199d0d637253cf8e810e)] -> css selector: #isc_SideNavTree_0_valueCell8]
+2022-07-08 21:07:687 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-07-08 21:07:962 INFO  HomePage :44 - Clicking on close button[[ChromeDriver: chrome on WINDOWS (074926383e97a9cd4c8326a9aeccea1d)] -> xpath: //a[contains(text(),'I Agree.')]]
+2022-07-08 21:07:350 INFO  HomePage :40 - Clicking on close button[[ChromeDriver: chrome on WINDOWS (074926383e97a9cd4c8326a9aeccea1d)] -> css selector: #isc_SideNavTree_0_valueCell8]
+2022-07-08 21:07:194 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-07-08 21:07:349 INFO  HomePage :44 - Clicking on close button[[ChromeDriver: chrome on WINDOWS (1728c769d33a27115ade9c751f5353c7)] -> xpath: //a[contains(text(),'I Agree.')]]
+2022-07-08 21:07:745 INFO  HomePage :40 - Clicking on close button[[ChromeDriver: chrome on WINDOWS (1728c769d33a27115ade9c751f5353c7)] -> css selector: #isc_SideNavTree_0_valueCell8]
+2022-07-08 21:07:505 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-07-08 21:07:947 INFO  HomePage :44 - Clicking on close button[[ChromeDriver: chrome on WINDOWS (6b20e2d932ef689c95e4c4557a6c3ef8)] -> xpath: //a[contains(text(),'I Agree.')]]
+2022-07-08 21:07:333 INFO  HomePage :40 - Clicking on close button[[ChromeDriver: chrome on WINDOWS (6b20e2d932ef689c95e4c4557a6c3ef8)] -> css selector: #isc_SideNavTree_0_valueCell8]
+2022-07-11 13:07:291 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-07-11 13:07:702 INFO  ManageDriver :31 - Launching Chrome Browser
